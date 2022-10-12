@@ -1,4 +1,19 @@
 /* .App {
   text-align: center;
 } */
+body {
+  background-color: #e1e4ec;
+  color: rgb(28, 43, 80);
+}
 
+.translatedText {
+  background-color: #144d8a;
+  color: rgb(238, 241, 239);
+  border-radius: 6px;
+  padding: 15px;
+  text-align: center;
+}
+.tf {
+  background-color: #ffffff;
+;
+}
